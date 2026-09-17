@@ -30,7 +30,7 @@ The 2026–2027 lead names follow the supplied kickoff deck. The deck notes that
 
 Club Fair is listed for 23 September 2026 from the chapter planning context, with time and location pending. The KNDL collaboration is acknowledged without exposing voucher assets or advertising unconfirmed redemption terms. KU confirms CIE53 for 20–23 October 2026; the chapter's proposed speakers and activities are not presented as confirmed.
 
-The requested 2025–2026 course-sequence link is retained as a year-specific reference. Its page could not be independently retrieved in this session. The current KU department page provides a second official academic route. Google Forms and Telegram destinations match the supplied links; no form was submitted and no group was joined during testing.
+The requested 2025–2026 course-sequence link is retained as a year-specific reference. Its page could not be independently retrieved in this session. The current KU department page provides a second official academic route. Google Forms destinations match the supplied links; no form was submitted and no group was joined during testing.
 
 Sources for awards and academic background are linked on the public credits page. Event photographs are from the supplied photo collection; the AUS images are identified as AUS, not KU campus photography. Images have been resized and exported without original EXIF metadata.
 
@@ -51,3 +51,7 @@ The local website is complete. A live deployment was attempted, but the Sites se
 ## September 16 update
 
 Added a full gallery with 83 public images, including event photographs from the archive and slides, ESMA guides, the KNDL promotional poster and the keychain design. Six exact photo duplicates are omitted. Receipt images and redeemable voucher artwork remain excluded. Added gallery filters, progressive loading and keyboard navigation in the image viewer. Updated the team, freshman participation guidance and KU annual membership renewal information per chapter leadership. Added official header logos, social icons, membership benefits, and the Ideas / Questions form.
+
+## September 17 update
+
+Moved Officer participation into the chapter-role signup card; dedicated the second card to general chat verification through the new Google Form. Replaced Telegram references, added Marwa Almarzooqi as Communications Director, and removed decorative numbering.
