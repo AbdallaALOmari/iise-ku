@@ -55,3 +55,7 @@ Added a full gallery with 83 public images, including event photographs from the
 ## September 17 update
 
 Moved Officer participation into the chapter-role signup card; dedicated the second card to general chat verification through the new Google Form. Replaced Telegram references, added Marwa Almarzooqi as Communications Director, and removed decorative numbering.
+
+## September 19 update
+
+Restored KU Groups Manager on Telegram for general chat access in the signup card, FAQ, and footer. Chapter role applications, including Officer, continue through the existing signup form.
